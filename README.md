@@ -6,5 +6,10 @@
 
 •	Performed ETL process using Alteryx from the source system to the target Azure SQL server by custom mapping
 
-•	Examining the System of Records by visualizing the Datawarehouse using Power BI and Tableau
+•	Examining the top performing restaurants by visualizing the Datawarehouse using Power BI and Tableau
 
+# Report:
+
+1. Visualizing top restaurants of the Boston city based on the ratings
+2. Finding correlation between rating and factors affecting it
+3. Analyzing what are the factors that are affecting the quality of food based on historical data
